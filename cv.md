@@ -11,10 +11,10 @@ not in this direction, I want to work at EPAM. One of my virtues is ability to w
 From my shortcomings I can call detachment sometimes. It often happens when I'm in a bad mood.
 
 ## Skills
-Programming languages: C/C++, Java, PL/SQL, SQL, HTML/CSS/JavaScript(Base level), recently started to learn Python
-OC: Windows
-Database: Oracle, MySql (base knowledge)
-Version control: VSS
+* Programming languages: C/C++, Java, PL/SQL, SQL, HTML/CSS/JavaScript(Base level), recently started to learn Python
+* OC: Windows
+* Database: Oracle, MySql (base knowledge)
+* Version control: VSS
 
 ## Code examples (LATEST)
 Fragment of laboratory work (multiplicative-congruential generator of the underlying random variables)
