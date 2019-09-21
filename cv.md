@@ -1,9 +1,9 @@
 # Zakrevskiy Evgeniy
 
 ## Contact Info
-Email: zakrevskii3112@gmail.com
-Phone: +375293675253 (A1)
-Discord: TheAnatolich#5679
+* Email: zakrevskii3112@gmail.com
+* Phone: +375293675253 (A1)
+* Discord: TheAnatolich#5679
 
 ## Summary
 The main goal of this courses is to extend the technology stack. And, in some way, sell myself. Maybe not now and 
@@ -33,6 +33,17 @@ for i in range(n0):
 2. System technologies: 2019.04.30 - so far, position: Engineer-programmer(Database)
 
 ## Education
+City of study: Minsk  
+Educational establishment: BSU  
+Faculty: Faculty of Applied Mathematics and Computer Science  
+Department: Mathematical Modeling and Data Analysis  
+Education form: Full-time  
+Degree information: Student (specialist)  
+Year: 4 year  
+Graduation year: 2020  
+Assignment (for BY): To be assigned 
 
 ## English
-
+Form of learning English: school, university, Streamline courses (2 years)  
+English level: A2-B1.  
+P.S: Stable level - A2 (when I haven't got any practice for long period of time)
