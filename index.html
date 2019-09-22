@@ -4,60 +4,101 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./clean.css">
     <link rel="stylesheet" href="./style.css">
     <title>Document</title>
 </head>
 <body>
-    <header>
-        <h1>Zakrevskiy Evgeniy</h1>
-        <figure>
-            <img src="./img/maxresdefault.jpg">
-        </figure>
-    </header>
-    <main>
-        <section>
-            <h3>Contact Info</h3>
-            <article>
-
-            </article>
-        </section>
-        <section>
-            <h3>Summary</h3>
-            <article>
-    
-            </article>
-        </section>
-        <section>
-            <h3>Skills</h3>
-            <article>
-    
-            </article>
-        </section>
-        <section>
-            <h3>Code examples (LATEST)</h3>
-            <article>
-        
-            </article>
-        </section>
-        <section>
-            <h3>Experience</h3>
-            <article>
-        
-            </article>
-        </section>
-        <section>
-            <h3>Education</h3>
-            <article>
-        
-            </article>
-        </section>
-        <section>
-            <h3>English</h3>
-            <article>
-                
-            </article>
-        </section>
-    </main>
-        
+    <div class="trent">
+        <header>
+            <h1>Zakrevskiy Evgeniy</h1>
+            <figure>
+                <!-- <img src="./img/maxresdefault.jpg"> -->
+            </figure>
+        </header>
+        <main>
+            <section>
+                <h3>Contact Info</h3>
+                <article>
+                    <ul>
+                        <li>Email: zakrevskii3112@gmail.com</li>
+                        <li>Phone: +375293675253 (A1)</li>
+                        <li>Discord: TheAnatolich#5679</li>
+                    </ul>
+                </article>
+            </section>
+            <section>
+                <h3>Summary</h3>
+                <article>
+                    <p>The main goal of this courses is to extend the technology stack. 
+                    And, in some way, sell myself. Maybe not now and not in this direction, I want to work at EPAM.
+                    One of my virtues is ability to win competition over long distances. From my shortcomings I can 
+                    call detachment sometimes. It often happens when I’m in a bad mood.</p>
+                </article>
+            </section>
+            <section>
+                <h3>Skills</h3>
+                <article>
+                    <ul>
+                        <li>Programming languages: C/C++, Java, PL/SQL, SQL, 
+                            HTML/CSS/JavaScript(Base level), recently started to learn Python</li>
+                        <li>OC: Windows</li>
+                        <li>Database: Oracle, MySql (base knowledge)</li>
+                        <li>Version control: VSS</li>
+                    </ul>
+                </article>
+            </section>
+            <section>
+                <h3>Code examples (LATEST)</h3>
+                <article>
+                    <p>Fragment of laboratory work (multiplicative-congruential generator of the underlying 
+                        random variables)</p>
+                    <div class = "code">
+                        alfa0 = beta0 = 16387
+                        n0 = 1000
+                        K = 48
+                        M = 2**31
+                        mas = []
+                        for i in range(n0):
+                            mas.append(alfa0/M)
+                            alfa0 = beta0*alfa0 - M*((beta0*alfa0)//M)
+                    </div>
+                </article>
+            </section>
+            <section>
+                <h3>Experience</h3>
+                <article>
+                    <ol>
+                        <li>Certificate: Programming JAVA SE and JAVA EE (Stormnet)</li>
+                        <li>System technologies: 2019.04.30 - so far, position: Engineer-programmer(Database)</li>
+                    </ol>
+                </article>
+            </section>
+            <section>
+                <h3>Education</h3>
+                <article>
+                    <p>
+                        City of study: Minsk
+                        Educational establishment: BSU
+                        Faculty: Faculty of Applied Mathematics and Computer Science
+                        Department: Mathematical Modeling and Data Analysis
+                        Education form: Full-time
+                        Degree information: Student (specialist)
+                        Year: 4 year
+                        Graduation year: 2020
+                        Assignment (for BY): To be assigned
+                    </p>
+                </article>
+            </section>
+            <section>
+                <h3>English</h3>
+                <article>
+                    Form of learning English: school, university, Streamline courses (2 years)
+                    English level: A2-B1.
+                    P.S: Stable level - A2 (when I haven’t got any practice for long period of time)
+                </article>
+            </section>
+        </main>
+    </div> 
 </body>
 </html>

@@ -1,5 +1,10 @@
 body {
-    display: block;
+   
+}
+
+.trent{
     width: 1024px;
-    text-align: justify;
+    background-color: blue;
+    text-align: center;
+    margin: 0 auto;
 }
